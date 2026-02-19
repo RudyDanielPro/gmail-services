@@ -4,7 +4,6 @@ spring:
 
 resend:
   api:
-    key: re_19aaSWzg_FwFCKjehpc2FmbZtETfcXzCG
-
+    key: ${RESEND_API_KEY}
 server:
   port: 9090
