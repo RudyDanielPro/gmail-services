@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: backend-servicio-correo
+
+resend:
+  api:
+    key: re_19aaSWzg_FwFCKjehpc2FmbZtETfcXzCG
+
+server:
+  port: 9090
