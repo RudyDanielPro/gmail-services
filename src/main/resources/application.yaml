@@ -6,4 +6,4 @@ resend:
   api:
     key: ${RESEND_API_KEY}
 server:
-  port: 9090
+  port: 8080
